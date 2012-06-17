@@ -1,0 +1,17 @@
+[0.003][INFO]:      ChromeDriver 20.0.1133.0 /usr/bin/chromedriver
+[0.172][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.detach": true,
+   "chromeOptions": {
+      "detach": true
+   },
+   "cssSelectorsEnabled": true,
+   "javascriptEnabled": true,
+   "nativeEvents": false,
+   "platform": "ANY",
+   "rotatable": false,
+   "takesScreenshot": false,
+   "version": ""
+}
+
+[0.173][INFO]:      Using named testing interface
